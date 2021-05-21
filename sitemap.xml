@@ -2,30 +2,30 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://example.org/tags/displays/</loc>
+    <loc>http://unspector.com/tags/displays/</loc>
     <lastmod>2021-05-21T20:59:27+02:00</lastmod>
   </url><url>
-    <loc>http://example.org/tags/microled/</loc>
+    <loc>http://unspector.com/tags/microled/</loc>
     <lastmod>2021-05-21T20:59:27+02:00</lastmod>
   </url><url>
-    <loc>http://example.org/tags/miniled/</loc>
+    <loc>http://unspector.com/tags/miniled/</loc>
     <lastmod>2021-05-21T20:59:27+02:00</lastmod>
   </url><url>
-    <loc>http://example.org/</loc>
+    <loc>http://unspector.com/tags/oled/</loc>
     <lastmod>2021-05-21T20:59:27+02:00</lastmod>
   </url><url>
-    <loc>http://example.org/tags/oled/</loc>
+    <loc>http://unspector.com/post/on-miniled-microled/</loc>
     <lastmod>2021-05-21T20:59:27+02:00</lastmod>
   </url><url>
-    <loc>http://example.org/post/on-miniled-microled/</loc>
+    <loc>http://unspector.com/post/</loc>
     <lastmod>2021-05-21T20:59:27+02:00</lastmod>
   </url><url>
-    <loc>http://example.org/post/</loc>
+    <loc>http://unspector.com/tags/</loc>
     <lastmod>2021-05-21T20:59:27+02:00</lastmod>
   </url><url>
-    <loc>http://example.org/tags/</loc>
+    <loc>http://unspector.com/</loc>
     <lastmod>2021-05-21T20:59:27+02:00</lastmod>
   </url><url>
-    <loc>http://example.org/categories/</loc>
+    <loc>http://unspector.com/categories/</loc>
   </url>
 </urlset>

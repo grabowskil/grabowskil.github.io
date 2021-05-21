@@ -1,18 +1,18 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>My New Hugo Site</title>
-    <link>http://example.org/</link>
-    <description>Recent content on My New Hugo Site</description>
+    <title>Unspector Blog</title>
+    <link>http://unspector.com/</link>
+    <description>Recent content on Unspector Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 21 May 2021 20:59:27 +0200</lastBuildDate><atom:link href="http://example.org/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 21 May 2021 20:59:27 +0200</lastBuildDate><atom:link href="http://unspector.com/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>on mini LED displays and the future</title>
-      <link>http://example.org/post/on-miniled-microled/</link>
+      <link>http://unspector.com/post/on-miniled-microled/</link>
       <pubDate>Fri, 21 May 2021 20:59:27 +0200</pubDate>
       
-      <guid>http://example.org/post/on-miniled-microled/</guid>
+      <guid>http://unspector.com/post/on-miniled-microled/</guid>
       <description>&lt;h1 id=&#34;129-m1-ipad-pro-shows-mini-led-will-be-the-immidiate-future-but-what-about-blooming&#34;&gt;12.9 M1 iPad Pro shows mini LED will be the immidiate future, but what about blooming?&lt;/h1&gt;</description>
     </item>
     
