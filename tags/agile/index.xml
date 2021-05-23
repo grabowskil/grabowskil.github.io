@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Unspector Blog</title>
-    <link>http://unspector.com/</link>
-    <description>Recent content on Unspector Blog</description>
+    <title>agile on Unspector Blog</title>
+    <link>http://unspector.com/tags/agile/</link>
+    <description>Recent content in agile on Unspector Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 23 May 2021 12:59:36 +0200</lastBuildDate><atom:link href="http://unspector.com/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 23 May 2021 12:59:36 +0200</lastBuildDate><atom:link href="http://unspector.com/tags/agile/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Scrum: A D&amp;D session gone wrong</title>
       <link>http://unspector.com/post/scrum-dnd-gone-wrong/</link>
@@ -14,15 +14,6 @@
       
       <guid>http://unspector.com/post/scrum-dnd-gone-wrong/</guid>
       <description>&lt;h1 id=&#34;even-though-the-rule-book-is-beefy-and-the-dungeon-master-is-skilled-dd-cannot-really-reproduce-reality---and-neither-can-scrum&#34;&gt;Even though the rule book is beefy and the dungeon master is skilled: D&amp;amp;D cannot really reproduce reality - and neither can Scrum&lt;/h1&gt;</description>
-    </item>
-    
-    <item>
-      <title>on mini LED displays and the future</title>
-      <link>http://unspector.com/post/on-miniled-microled/</link>
-      <pubDate>Fri, 21 May 2021 20:59:27 +0200</pubDate>
-      
-      <guid>http://unspector.com/post/on-miniled-microled/</guid>
-      <description>&lt;h1 id=&#34;129-m1-ipad-pro-shows-mini-led-will-be-the-immidiate-future-but-what-about-blooming&#34;&gt;12.9 M1 iPad Pro shows mini LED will be the immidiate future, but what about blooming?&lt;/h1&gt;</description>
     </item>
     
   </channel>
