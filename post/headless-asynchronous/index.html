@@ -30,9 +30,9 @@ if (!doNotTrack) {
     
 
     
-    <meta name="title" content="oled" />
-    <meta property="og:title" content="oled" />
-    <meta property="twitter:title" content="oled" />
+    <meta name="title" content="Headless and asynchronous" />
+    <meta property="og:title" content="Headless and asynchronous" />
+    <meta property="twitter:title" content="Headless and asynchronous" />
     
 
     
@@ -49,9 +49,9 @@ if (!doNotTrack) {
     <meta name="keyword"  content="Tech, Programming, Movies, Video Games, Tinkering, Finance, Philosphy">
     <link rel="shortcut icon" href="/img/favicon.ico">
 
-    <title>oled-Unspector Blog</title>
+    <title>Headless and asynchronous-Unspector Blog</title>
 
-    <link rel="canonical" href="/tags/oled/">
+    <link rel="canonical" href="/post/headless-asynchronous/">
 
     <link rel="stylesheet" href="/css/iDisqus.min.css"/>
 	
@@ -154,14 +154,41 @@ if (!doNotTrack) {
 
 
 
-<header class="intro-header" style="background-image: url('/img/unspector_bg.png')">
+
+<style type="text/css">
+    header.intro-header {
+        background-image: url('/img/unspector_bg.png')
+    }
+</style>
+<header class="intro-header">
     <div class="container">
         <div class="row">
-            <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1 ">
-                <div class="site-heading">
-                    <h1>Unspector </h1>
-                    
-		    <span class="subheading">unspecting the vastness of the universe</span>
+            <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
+                <div class="post-heading">
+                    <div class="tags">
+                        
+                        <a class="tag" href="/tags/programming" title="programming">
+                            programming
+                        </a>
+                        
+                        <a class="tag" href="/tags/cms" title="CMS">
+                            CMS
+                        </a>
+                        
+                    </div>
+                    <h1>Headless and asynchronous</h1>
+                    <h2 class="subheading"></h2>
+                    <span class="meta">
+                        Posted by 
+                        
+                                Unspector Blog
+                         
+                        on 
+                        Tuesday, May 25, 2021
+                        
+                        
+                        
+                    </span>
                 </div>
             </div>
         </div>
@@ -170,110 +197,101 @@ if (!doNotTrack) {
 
 
 
-  
-<div class="container">
-    <div class="row">
-        
-        
-   	    <div class="
-            col-lg-8 col-lg-offset-1
-            col-md-8 col-md-offset-1
-            col-sm-12
-            col-xs-12
-            post-container
-        ">
+
+<article>
+    <div class="container">
+        <div class="row">
+
             
+            <div class="
+                col-lg-11 col-lg-offset-1
+                col-md-10 col-md-offset-1
+                post-container">
 
-<div class="post-preview">
-    <a href="http://unspector.com/post/on-miniled-microled/">
-        <h2 class="post-title">
-            on mini LED displays and the future
-        </h2>
-	
-        <div class="post-content-preview">
-	    
-            <h1 id="129-m1-ipad-pro-shows-mini-led-will-be-the-immidiate-future-but-what-about-blooming">12.9 M1 iPad Pro shows mini LED will be the immidiate future, but what about blooming?</h1>
-        
-       
+                
+                <h1 id="since-everyone-receives-the-same-html-why-are-cms-so-complicated">Since everyone receives the same html, why are CMS so complicated?</h1>
+<p><em>Disclaimer: this blog based on hugo, one of the described modern static-site-generators and is hosted on github pages.</em></p>
+<p>In the last few decades CMS have become more complicated as requirements have become more complex. Before transitioning into the cloud (and obfuscating their architecture somewhat) a lot of CMS were built in a classical client-server structure.</p>
+<p>The CMS supports its users to create and manage their content in a user-friendly way (sometimes even wysiwyg-like) and stores the content in a database. The content gets retrieved from this DB and rendered into html, which is served by a server (often bundled with the CMS). The site&rsquo;s visitors receive the html from this server (or a connect cache or CDN).</p>
+<p>Since most CMS aren&rsquo;t used to build a platform, but to deliver static content, in most cases every visitor receives exactly the same html. Still CMS, DB and server run 24/7 to deliver this html. This means paying a hoster 24/7 to keep the lights on and for the hoster to keep performance overhead on hand, since CMS, DB and server don&rsquo;t always have a predictable resource usage.</p>
+<p>One strategy to mitigate this mutual overhead costs are &ldquo;headless&rdquo; CMS, which unbundle the server and keep the CMS and its database separate from the processes to retrieve, render, and serve the content. But this leads to new friction at the interfaces between headless CMS and server, which needs to be compensated during development and setup.</p>
+<p>Customer&rsquo;s who don&rsquo;t want to account for development projects and need uniform costs between periods for a predictable service may choose a cloud hosted website builder. This hides complicated systems from users, visitors, and customers, but doesn&rsquo;t change the underlying architecture, which&rsquo;s shortcomings will still be paid by customers as part of the periodic fees.</p>
+<p>While WordPress, Drupal, Ghost, and many more optimize their resource consumption, they still need volatile DB&rsquo;s and still bundle a server or rely on servers provided by their environment. During the 2010&rsquo;s a new wave of so called static-site-generators stepped on the scene, which utilize node-based applications to render and flatten html, css, and js from templates. The catch: This html isn&rsquo;t generated remotely by a server, but locally by the development environment. Therefore neither customers or hosters need to provide the resources on demand, but every the resource-intensive task of rendering the html can be done by every cheap laptop the developer has at hand.<br />
+With smartphones becoming more powerful every year and iPads becoming more laptop-like (and even more powerful than many laptops and smartphones) I believe rendering html on the go isn&rsquo;t too far off, either.</p>
+<p>This html can be used with nearly any hoster and it turns out, hosting static content is so cheap, sites like github do it for free. And even independent hosting becomes exponentially cheaper if only storage is needed and cpu-performance and memory can be somewhat neglected.</p>
+<p>Static-site-generators aren&rsquo;t a new idea, though synergy with concepts from headless CMS and new render-pipelines, which have been implemented in node.js and are easily available as pre-packaged npm-modules make them much more attractive and on par with CMS using server-side-rendering. In reality a lot of modern CMS are using the same render-pipelines just synchronous at time of request on a remote server and not asynchronous in a local environment.</p>
 
+                
+
+                <hr>
+                <ul class="pager">
+                    
+                    <li class="previous">
+                        <a href="/post/complex-v-complicated/" data-toggle="tooltip" data-placement="top" title="Complex v Complicated">&larr;
+                            Previous Post</a>
+                    </li>
+                    
+                    
+                </ul>
+
+                
+<div id="disqus-comment"></div>
+
+
+
+            </div>
+            
+            <div class="
+                col-lg-11 col-lg-offset-1
+                col-md-10 col-md-offset-1
+                sidebar-container">
+
+                
+                
+                <section>
+                    <hr class="hidden-sm hidden-xs">
+                    <h5><a href="/tags/">FEATURED TAGS</a></h5>
+                    <div class="tags">
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        <a href="/tags/programming" title="programming">
+                            programming
+                        </a>
+                        
+                        
+                        
+                        
+                        
+                        
+                    </div>
+                </section>
+                
+
+                
+                
+            </div>
         </div>
-    </a>
-    <p class="post-meta">
-    Posted by Unspector Blog Friday, May 21, 2021
-    
-    
-    </p>
-
-</div>
-<hr>
-
-
-            
-
-
-
-       	</div>
-        
-
-<div class="
-    col-lg-3 col-lg-offset-0
-    col-md-3 col-md-offset-0
-    col-sm-12
-    col-xs-12
-    sidebar-container
-">
-    
-    
-    <section>
-        <hr class="hidden-sm hidden-xs">
-        <h5>FEATURED TAGS</h5>
-        <div class="tags">
-             
-            
-                
-            
-                
-            
-                
-            
-                
-            
-                
-            
-                
-            
-                
-            
-                
-            
-                
-            
-                
-                    <a href="/tags/programming" title="programming">
-                        programming
-                    </a>
-                
-            
-                
-            
-                
-            
-        </div>
-    </section>
-    
-
-    
-	
-    
-    
-
-    
-    
-</div>
-
-	</div>
-</div>
-
+    </div>
+</article>
 
 
 
@@ -285,7 +303,7 @@ if (!doNotTrack) {
                 <ul class="list-inline text-center">
                    
                    <li>
-                       <a href='/tags/oled/index.xml' rel="alternate" type="application/rss+xml" title="Unspector Blog" >
+                       <a href='' rel="alternate" type="application/rss+xml" title="Unspector Blog" >
                            <span class="fa-stack fa-lg">
                                <i class="fa fa-circle fa-stack-2x"></i>
                                <i class="fa fa-rss fa-stack-1x fa-inverse"></i>

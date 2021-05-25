@@ -6,22 +6,31 @@
     <description>Recent content in Tags on Unspector Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 24 May 2021 13:01:52 +0200</lastBuildDate><atom:link href="http://unspector.com/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 25 May 2021 07:05:11 +0200</lastBuildDate><atom:link href="http://unspector.com/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>linguistic</title>
-      <link>http://unspector.com/tags/linguistic/</link>
-      <pubDate>Mon, 24 May 2021 13:01:52 +0200</pubDate>
+      <title>CMS</title>
+      <link>http://unspector.com/tags/cms/</link>
+      <pubDate>Tue, 25 May 2021 07:05:11 +0200</pubDate>
       
-      <guid>http://unspector.com/tags/linguistic/</guid>
+      <guid>http://unspector.com/tags/cms/</guid>
       <description></description>
     </item>
     
     <item>
       <title>programming</title>
       <link>http://unspector.com/tags/programming/</link>
-      <pubDate>Mon, 24 May 2021 13:01:52 +0200</pubDate>
+      <pubDate>Tue, 25 May 2021 07:05:11 +0200</pubDate>
       
       <guid>http://unspector.com/tags/programming/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>linguistic</title>
+      <link>http://unspector.com/tags/linguistic/</link>
+      <pubDate>Mon, 24 May 2021 13:01:52 +0200</pubDate>
+      
+      <guid>http://unspector.com/tags/linguistic/</guid>
       <description></description>
     </item>
     

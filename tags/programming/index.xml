@@ -6,7 +6,16 @@
     <description>Recent content in programming on Unspector Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 24 May 2021 13:01:52 +0200</lastBuildDate><atom:link href="http://unspector.com/tags/programming/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 25 May 2021 07:05:11 +0200</lastBuildDate><atom:link href="http://unspector.com/tags/programming/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Headless and asynchronous</title>
+      <link>http://unspector.com/post/headless-asynchronous/</link>
+      <pubDate>Tue, 25 May 2021 07:05:11 +0200</pubDate>
+      
+      <guid>http://unspector.com/post/headless-asynchronous/</guid>
+      <description>&lt;h1 id=&#34;since-everyone-receives-the-same-html-why-are-cms-so-complicated&#34;&gt;Since everyone receives the same html, why are CMS so complicated?&lt;/h1&gt;</description>
+    </item>
+    
     <item>
       <title>Complex v Complicated</title>
       <link>http://unspector.com/post/complex-v-complicated/</link>
