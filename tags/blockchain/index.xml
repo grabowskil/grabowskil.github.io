@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>blockchain on Unspector Blog</title>
+    <link>http://unspector.com/tags/blockchain/</link>
+    <description>Recent content in blockchain on Unspector Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 26 May 2021 07:22:50 +0200</lastBuildDate><atom:link href="http://unspector.com/tags/blockchain/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Pokemon Cards, Tokenization and Scarcity</title>
+      <link>http://unspector.com/post/pokemon-cards-scarcity/</link>
+      <pubDate>Wed, 26 May 2021 07:22:50 +0200</pubDate>
+      
+      <guid>http://unspector.com/post/pokemon-cards-scarcity/</guid>
+      <description>&lt;h1 id=&#34;a-pokemon-cards-shortage-is-impossible-yet-here-we-are&#34;&gt;A Pokemon cards &amp;ldquo;shortage&amp;rdquo; is impossible. Yet here we are.&lt;/h1&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

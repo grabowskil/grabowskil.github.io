@@ -6,7 +6,16 @@
     <description>Recent content in Posts on Unspector Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 25 May 2021 07:05:11 +0200</lastBuildDate><atom:link href="http://unspector.com/post/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 26 May 2021 07:22:50 +0200</lastBuildDate><atom:link href="http://unspector.com/post/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Pokemon Cards, Tokenization and Scarcity</title>
+      <link>http://unspector.com/post/pokemon-cards-scarcity/</link>
+      <pubDate>Wed, 26 May 2021 07:22:50 +0200</pubDate>
+      
+      <guid>http://unspector.com/post/pokemon-cards-scarcity/</guid>
+      <description>&lt;h1 id=&#34;a-pokemon-cards-shortage-is-impossible-yet-here-we-are&#34;&gt;A Pokemon cards &amp;ldquo;shortage&amp;rdquo; is impossible. Yet here we are.&lt;/h1&gt;</description>
+    </item>
+    
     <item>
       <title>Headless and asynchronous</title>
       <link>http://unspector.com/post/headless-asynchronous/</link>
