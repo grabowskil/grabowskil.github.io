@@ -6,22 +6,40 @@
     <description>Recent content in Tags on Unspector Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 27 May 2021 06:33:20 +0200</lastBuildDate><atom:link href="http://unspector.com/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 28 May 2021 16:28:32 +0200</lastBuildDate><atom:link href="http://unspector.com/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>clubhouse</title>
-      <link>http://unspector.com/tags/clubhouse/</link>
-      <pubDate>Thu, 27 May 2021 06:33:20 +0200</pubDate>
+      <title>organisation</title>
+      <link>http://unspector.com/tags/organisation/</link>
+      <pubDate>Fri, 28 May 2021 16:28:32 +0200</pubDate>
       
-      <guid>http://unspector.com/tags/clubhouse/</guid>
+      <guid>http://unspector.com/tags/organisation/</guid>
       <description></description>
     </item>
     
     <item>
       <title>philosophy</title>
       <link>http://unspector.com/tags/philosophy/</link>
-      <pubDate>Thu, 27 May 2021 06:33:20 +0200</pubDate>
+      <pubDate>Fri, 28 May 2021 16:28:32 +0200</pubDate>
       
       <guid>http://unspector.com/tags/philosophy/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>programming</title>
+      <link>http://unspector.com/tags/programming/</link>
+      <pubDate>Fri, 28 May 2021 16:28:32 +0200</pubDate>
+      
+      <guid>http://unspector.com/tags/programming/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>clubhouse</title>
+      <link>http://unspector.com/tags/clubhouse/</link>
+      <pubDate>Thu, 27 May 2021 06:33:20 +0200</pubDate>
+      
+      <guid>http://unspector.com/tags/clubhouse/</guid>
       <description></description>
     </item>
     
@@ -116,15 +134,6 @@
     </item>
     
     <item>
-      <title>programming</title>
-      <link>http://unspector.com/tags/programming/</link>
-      <pubDate>Tue, 25 May 2021 07:05:11 +0200</pubDate>
-      
-      <guid>http://unspector.com/tags/programming/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>linguistic</title>
       <link>http://unspector.com/tags/linguistic/</link>
       <pubDate>Mon, 24 May 2021 13:01:52 +0200</pubDate>
@@ -157,15 +166,6 @@
       <pubDate>Sun, 23 May 2021 12:59:36 +0200</pubDate>
       
       <guid>http://unspector.com/tags/agile/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>organisation</title>
-      <link>http://unspector.com/tags/organisation/</link>
-      <pubDate>Sun, 23 May 2021 12:59:36 +0200</pubDate>
-      
-      <guid>http://unspector.com/tags/organisation/</guid>
       <description></description>
     </item>
     
