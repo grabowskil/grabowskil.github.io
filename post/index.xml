@@ -6,7 +6,16 @@
     <description>Recent content in Posts on Unspector Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 02 Jun 2021 06:59:28 +0200</lastBuildDate><atom:link href="http://unspector.com/post/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 04 Jun 2021 07:38:50 +0200</lastBuildDate><atom:link href="http://unspector.com/post/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>GitHub actions as CI</title>
+      <link>http://unspector.com/post/if-you-can-read-this-automation/</link>
+      <pubDate>Fri, 04 Jun 2021 07:38:50 +0200</pubDate>
+      
+      <guid>http://unspector.com/post/if-you-can-read-this-automation/</guid>
+      <description>&lt;h1 id=&#34;if-you-can-read-this-my-github-actions-are-working&#34;&gt;If you can read this my GitHub actions are working&lt;/h1&gt;</description>
+    </item>
+    
     <item>
       <title>What if everyone&#39;s frame of reference is wrong?</title>
       <link>http://unspector.com/post/everyones-frame-reference/</link>

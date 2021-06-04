@@ -30,9 +30,9 @@ if (!doNotTrack) {
     
 
     
-    <meta name="title" content="programming" />
-    <meta property="og:title" content="programming" />
-    <meta property="twitter:title" content="programming" />
+    <meta name="title" content="GitHub actions as CI" />
+    <meta property="og:title" content="GitHub actions as CI" />
+    <meta property="twitter:title" content="GitHub actions as CI" />
     
 
     
@@ -49,9 +49,9 @@ if (!doNotTrack) {
     <meta name="keyword"  content="Tech, Programming, Movies, Video Games, Tinkering, Finance, Philosphy">
     <link rel="shortcut icon" href="/img/favicon.ico">
 
-    <title>programming-Unspector Blog</title>
+    <title>GitHub actions as CI-Unspector Blog</title>
 
-    <link rel="canonical" href="/tags/programming/">
+    <link rel="canonical" href="/post/if-you-can-read-this-automation/">
 
     <link rel="stylesheet" href="/css/iDisqus.min.css"/>
 	
@@ -154,14 +154,41 @@ if (!doNotTrack) {
 
 
 
-<header class="intro-header" style="background-image: url('/img/unspector_bg.png')">
+
+<style type="text/css">
+    header.intro-header {
+        background-image: url('/img/unspector_bg.png')
+    }
+</style>
+<header class="intro-header">
     <div class="container">
         <div class="row">
-            <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1 ">
-                <div class="site-heading">
-                    <h1>Unspector </h1>
-                    
-		    <span class="subheading">unspecting the vastness of the universe</span>
+            <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
+                <div class="post-heading">
+                    <div class="tags">
+                        
+                        <a class="tag" href="/tags/programming" title="programming">
+                            programming
+                        </a>
+                        
+                        <a class="tag" href="/tags/organisation" title="organisation">
+                            organisation
+                        </a>
+                        
+                    </div>
+                    <h1>GitHub actions as CI</h1>
+                    <h2 class="subheading"></h2>
+                    <span class="meta">
+                        Posted by 
+                        
+                                Unspector Blog
+                         
+                        on 
+                        Friday, June 4, 2021
+                        
+                        
+                        
+                    </span>
                 </div>
             </div>
         </div>
@@ -170,259 +197,138 @@ if (!doNotTrack) {
 
 
 
-  
-<div class="container">
-    <div class="row">
-        
-        
-   	    <div class="
-            col-lg-8 col-lg-offset-1
-            col-md-8 col-md-offset-1
-            col-sm-12
-            col-xs-12
-            post-container
-        ">
+
+<article>
+    <div class="container">
+        <div class="row">
+
             
+            <div class="
+                col-lg-11 col-lg-offset-1
+                col-md-10 col-md-offset-1
+                post-container">
 
-<div class="post-preview">
-    <a href="http://unspector.com/post/if-you-can-read-this-automation/">
-        <h2 class="post-title">
-            GitHub actions as CI
-        </h2>
-	
-        <div class="post-content-preview">
-	    
-            <h1 id="if-you-can-read-this-my-github-actions-are-working">If you can read this my GitHub actions are working</h1>
-        
-       
+                
+                <h1 id="if-you-can-read-this-my-github-actions-are-working">If you can read this my GitHub actions are working</h1>
+<p>The last few days I explored GitHub actions to automate deployment and publishing of this blog.</p>
+<p>Some things I learned:</p>
+<ul>
+<li>GitHub makes it considerably harder to launch reasonably privileged docker containers to execute actions than Gitlab</li>
+<li>If you commit to using GitHub&rsquo;s &ldquo;actions marketplace&rdquo; instead of trying to create everything yourself from scratch, it works surprisingly smooth</li>
+<li>Built-in logging ist much more structured, than Gitlab&rsquo;s</li>
+<li>When GitHub&rsquo;s marketplace doesn&rsquo;t have, what you are looking for, you can work around this with simple shell scripts, if this doesn&rsquo;t help, you are out of luck</li>
+</ul>
+<p>GitHub actions definitely hints at the upcoming low code future, where the hard work has been done by someone else and you just put the pieces together.</p>
 
+                
+
+                <hr>
+                <ul class="pager">
+                    
+                    <li class="previous">
+                        <a href="/post/everyones-frame-reference/" data-toggle="tooltip" data-placement="top" title="What if everyone&#39;s frame of reference is wrong?">&larr;
+                            Previous Post</a>
+                    </li>
+                    
+                    
+                </ul>
+
+                
+<div id="disqus-comment"></div>
+
+
+
+            </div>
+            
+            <div class="
+                col-lg-11 col-lg-offset-1
+                col-md-10 col-md-offset-1
+                sidebar-container">
+
+                
+                
+                <section>
+                    <hr class="hidden-sm hidden-xs">
+                    <h5><a href="/tags/">FEATURED TAGS</a></h5>
+                    <div class="tags">
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        <a href="/tags/featured" title="featured">
+                            featured
+                        </a>
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        <a href="/tags/organisation" title="organisation">
+                            organisation
+                        </a>
+                        
+                        
+                        
+                        <a href="/tags/philosophy" title="philosophy">
+                            philosophy
+                        </a>
+                        
+                        
+                        
+                        
+                        
+                        <a href="/tags/programming" title="programming">
+                            programming
+                        </a>
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                    </div>
+                </section>
+                
+
+                
+                
+            </div>
         </div>
-    </a>
-    <p class="post-meta">
-    Posted by Unspector Blog Friday, June 4, 2021
-    
-    
-    </p>
-
-</div>
-<hr>
-
-<div class="post-preview">
-    <a href="http://unspector.com/post/automate-boring-stuff/">
-        <h2 class="post-title">
-            Automate the boring stuff
-        </h2>
-	
-        <div class="post-content-preview">
-	    
-            <h1 id="what-is-boring-stuff-and-why-does-it-need-to-be-automated">What is boring stuff? And why does it need to be automated?</h1>
-        
-       
-
-        </div>
-    </a>
-    <p class="post-meta">
-    Posted by Unspector Blog Friday, May 28, 2021
-    
-    
-    </p>
-
-</div>
-<hr>
-
-<div class="post-preview">
-    <a href="http://unspector.com/post/headless-asynchronous/">
-        <h2 class="post-title">
-            Headless and asynchronous
-        </h2>
-	
-        <div class="post-content-preview">
-	    
-            <h1 id="since-everyone-receives-the-same-html-why-are-cms-so-complicated">Since everyone receives the same html, why are CMS so complicated?</h1>
-        
-       
-
-        </div>
-    </a>
-    <p class="post-meta">
-    Posted by Unspector Blog Tuesday, May 25, 2021
-    
-    
-    </p>
-
-</div>
-<hr>
-
-<div class="post-preview">
-    <a href="http://unspector.com/post/complex-v-complicated/">
-        <h2 class="post-title">
-            Complex v Complicated
-        </h2>
-	
-        <div class="post-content-preview">
-	    
-            <h1 id="a-watch-is-complicated-humans-are-complex">A watch is complicated, humans are complex</h1>
-        
-       
-
-        </div>
-    </a>
-    <p class="post-meta">
-    Posted by Unspector Blog Monday, May 24, 2021
-    
-    
-    </p>
-
-</div>
-<hr>
-
-<div class="post-preview">
-    <a href="http://unspector.com/post/scrum-dnd-gone-wrong/">
-        <h2 class="post-title">
-            Scrum: A D&amp;D session gone wrong
-        </h2>
-	
-        <div class="post-content-preview">
-	    
-            <h1 id="even-though-the-rule-book-is-beefy-and-the-dungeon-master-is-skilled-dd-cannot-really-reproduce-reality---and-neither-can-scrum">Even though the rule book is beefy and the Dungeon Master is skilled: D&amp;D cannot really reproduce reality - and neither can Scrum</h1>
-        
-       
-
-        </div>
-    </a>
-    <p class="post-meta">
-    Posted by Unspector Blog Sunday, May 23, 2021
-    
-    
-    </p>
-
-</div>
-<hr>
-
-
-            
-
-
-
-       	</div>
-        
-
-<div class="
-    col-lg-3 col-lg-offset-0
-    col-md-3 col-md-offset-0
-    col-sm-12
-    col-xs-12
-    sidebar-container
-">
-    
-    
-    <section>
-        <hr class="hidden-sm hidden-xs">
-        <h5>FEATURED TAGS</h5>
-        <div class="tags">
-             
-            
-                
-            
-                
-            
-                
-            
-                
-            
-                
-            
-                
-            
-                
-            
-                
-            
-                
-            
-                
-            
-                
-            
-                
-            
-                
-            
-                
-            
-                
-                    <a href="/tags/organisation" title="organisation">
-                        organisation
-                    </a>
-                
-            
-                
-                    <a href="/tags/philosophy" title="philosophy">
-                        philosophy
-                    </a>
-                
-            
-                
-            
-                
-                    <a href="/tags/programming" title="programming">
-                        programming
-                    </a>
-                
-            
-                
-            
-                
-            
-                
-            
-                
-            
-                
-            
-                
-            
-                
-            
-        </div>
-    </section>
-    
-
-    
-    
-    <section>
-        <hr class="hidden-sm hidden-xs">
-        <h5>FEATURED Posts</h5>
-        <div class="list-group unspb-post">
-            
-            <a href="/post/pokemon-cards-scarcity/" class="list-group-item">
-                Pokemon Cards, Tokenization and Scarcity
-            </a>
-            
-            <a href="/post/headless-asynchronous/" class="list-group-item">
-                Headless and asynchronous
-            </a>
-            
-            <a href="/post/complex-v-complicated/" class="list-group-item">
-                Complex v Complicated
-            </a>
-            
-        </div>
-    </section>
-    
-
-    
-	
-    
-    
-
-    
-    
-</div>
-
-	</div>
-</div>
-
+    </div>
+</article>
 
 
 
@@ -434,7 +340,7 @@ if (!doNotTrack) {
                 <ul class="list-inline text-center">
                    
                    <li>
-                       <a href='/tags/programming/index.xml' rel="alternate" type="application/rss+xml" title="Unspector Blog" >
+                       <a href='' rel="alternate" type="application/rss+xml" title="Unspector Blog" >
                            <span class="fa-stack fa-lg">
                                <i class="fa fa-circle fa-stack-2x"></i>
                                <i class="fa fa-rss fa-stack-1x fa-inverse"></i>

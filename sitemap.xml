@@ -2,19 +2,25 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://unspector.com/tags/organisation/</loc>
-    <lastmod>2021-06-02T06:59:28+02:00</lastmod>
+    <loc>http://unspector.com/post/if-you-can-read-this-automation/</loc>
+    <lastmod>2021-06-04T07:38:50+02:00</lastmod>
   </url><url>
-    <loc>http://unspector.com/tags/philosophy/</loc>
-    <lastmod>2021-06-02T06:59:28+02:00</lastmod>
+    <loc>http://unspector.com/tags/organisation/</loc>
+    <lastmod>2021-06-04T07:38:50+02:00</lastmod>
   </url><url>
     <loc>http://unspector.com/post/</loc>
-    <lastmod>2021-06-02T06:59:28+02:00</lastmod>
+    <lastmod>2021-06-04T07:38:50+02:00</lastmod>
+  </url><url>
+    <loc>http://unspector.com/tags/programming/</loc>
+    <lastmod>2021-06-04T07:38:50+02:00</lastmod>
   </url><url>
     <loc>http://unspector.com/tags/</loc>
-    <lastmod>2021-06-02T06:59:28+02:00</lastmod>
+    <lastmod>2021-06-04T07:38:50+02:00</lastmod>
   </url><url>
     <loc>http://unspector.com/</loc>
+    <lastmod>2021-06-04T07:38:50+02:00</lastmod>
+  </url><url>
+    <loc>http://unspector.com/tags/philosophy/</loc>
     <lastmod>2021-06-02T06:59:28+02:00</lastmod>
   </url><url>
     <loc>http://unspector.com/post/everyones-frame-reference/</loc>
@@ -42,9 +48,6 @@
     <lastmod>2021-05-31T18:27:33+02:00</lastmod>
   </url><url>
     <loc>http://unspector.com/post/automate-boring-stuff/</loc>
-    <lastmod>2021-05-28T16:28:32+02:00</lastmod>
-  </url><url>
-    <loc>http://unspector.com/tags/programming/</loc>
     <lastmod>2021-05-28T16:28:32+02:00</lastmod>
   </url><url>
     <loc>http://unspector.com/tags/clubhouse/</loc>
