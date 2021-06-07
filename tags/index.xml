@@ -6,31 +6,58 @@
     <description>Recent content in Tags on Unspector Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 04 Jun 2021 07:38:50 +0200</lastBuildDate><atom:link href="http://unspector.com/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 07 Jun 2021 13:43:13 +0200</lastBuildDate><atom:link href="http://unspector.com/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>organisation</title>
       <link>http://unspector.com/tags/organisation/</link>
-      <pubDate>Fri, 04 Jun 2021 07:38:50 +0200</pubDate>
+      <pubDate>Mon, 07 Jun 2021 13:43:13 +0200</pubDate>
       
       <guid>http://unspector.com/tags/organisation/</guid>
       <description></description>
     </item>
     
     <item>
+      <title>philosophy</title>
+      <link>http://unspector.com/tags/philosophy/</link>
+      <pubDate>Mon, 07 Jun 2021 13:43:13 +0200</pubDate>
+      
+      <guid>http://unspector.com/tags/philosophy/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>programming</title>
       <link>http://unspector.com/tags/programming/</link>
-      <pubDate>Fri, 04 Jun 2021 07:38:50 +0200</pubDate>
+      <pubDate>Mon, 07 Jun 2021 13:43:13 +0200</pubDate>
       
       <guid>http://unspector.com/tags/programming/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>philosophy</title>
-      <link>http://unspector.com/tags/philosophy/</link>
-      <pubDate>Wed, 02 Jun 2021 06:59:28 +0200</pubDate>
+      <title>economics</title>
+      <link>http://unspector.com/tags/economics/</link>
+      <pubDate>Fri, 04 Jun 2021 18:21:39 +0200</pubDate>
       
-      <guid>http://unspector.com/tags/philosophy/</guid>
+      <guid>http://unspector.com/tags/economics/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>social media</title>
+      <link>http://unspector.com/tags/social-media/</link>
+      <pubDate>Fri, 04 Jun 2021 18:21:39 +0200</pubDate>
+      
+      <guid>http://unspector.com/tags/social-media/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>technology</title>
+      <link>http://unspector.com/tags/technology/</link>
+      <pubDate>Fri, 04 Jun 2021 18:21:39 +0200</pubDate>
+      
+      <guid>http://unspector.com/tags/technology/</guid>
       <description></description>
     </item>
     
@@ -85,33 +112,6 @@
       <pubDate>Thu, 27 May 2021 06:33:20 +0200</pubDate>
       
       <guid>http://unspector.com/tags/clubhouse/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>social media</title>
-      <link>http://unspector.com/tags/social-media/</link>
-      <pubDate>Thu, 27 May 2021 06:33:20 +0200</pubDate>
-      
-      <guid>http://unspector.com/tags/social-media/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>technology</title>
-      <link>http://unspector.com/tags/technology/</link>
-      <pubDate>Thu, 27 May 2021 06:33:20 +0200</pubDate>
-      
-      <guid>http://unspector.com/tags/technology/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>economics</title>
-      <link>http://unspector.com/tags/economics/</link>
-      <pubDate>Wed, 26 May 2021 07:22:50 +0200</pubDate>
-      
-      <guid>http://unspector.com/tags/economics/</guid>
       <description></description>
     </item>
     

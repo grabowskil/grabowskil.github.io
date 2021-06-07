@@ -30,9 +30,9 @@ if (!doNotTrack) {
     
 
     
-    <meta name="title" content="GitHub actions as CI" />
-    <meta property="og:title" content="GitHub actions as CI" />
-    <meta property="twitter:title" content="GitHub actions as CI" />
+    <meta name="title" content="Reuse, Fork, Copy, Credit" />
+    <meta property="og:title" content="Reuse, Fork, Copy, Credit" />
+    <meta property="twitter:title" content="Reuse, Fork, Copy, Credit" />
     
 
     
@@ -49,9 +49,9 @@ if (!doNotTrack) {
     <meta name="keyword"  content="Tech, Programming, Movies, Video Games, Tinkering, Finance, Philosphy">
     <link rel="shortcut icon" href="/img/favicon.ico">
 
-    <title>GitHub actions as CI-Unspector Blog</title>
+    <title>Reuse, Fork, Copy, Credit-Unspector Blog</title>
 
-    <link rel="canonical" href="/post/if-you-can-read-this-automation/">
+    <link rel="canonical" href="/post/reuse-fork-copy/">
 
     <link rel="stylesheet" href="/css/iDisqus.min.css"/>
 	
@@ -171,12 +171,16 @@ if (!doNotTrack) {
                             programming
                         </a>
                         
+                        <a class="tag" href="/tags/philosophy" title="philosophy">
+                            philosophy
+                        </a>
+                        
                         <a class="tag" href="/tags/organisation" title="organisation">
                             organisation
                         </a>
                         
                     </div>
-                    <h1>GitHub actions as CI</h1>
+                    <h1>Reuse, Fork, Copy, Credit</h1>
                     <h2 class="subheading"></h2>
                     <span class="meta">
                         Posted by 
@@ -184,7 +188,7 @@ if (!doNotTrack) {
                                 Unspector Blog
                          
                         on 
-                        Friday, June 4, 2021
+                        Monday, June 7, 2021
                         
                         
                         
@@ -209,16 +213,15 @@ if (!doNotTrack) {
                 post-container">
 
                 
-                <h1 id="if-you-can-read-this-my-github-actions-are-working">If you can read this my GitHub actions are working</h1>
-<p>The last few days I explored GitHub actions to automate deployment and publishing of this blog.</p>
-<p>Some things I learned:</p>
-<ul>
-<li>GitHub makes it considerably harder to launch reasonably privileged docker containers to execute actions than Gitlab</li>
-<li>If you commit to using GitHub&rsquo;s &ldquo;actions marketplace&rdquo; instead of trying to create everything yourself from scratch, it works surprisingly smooth</li>
-<li>Built-in logging ist much more structured, than Gitlab&rsquo;s</li>
-<li>When GitHub&rsquo;s marketplace doesn&rsquo;t have, what you are looking for, you can work around this with simple shell scripts, if this doesn&rsquo;t help, you are out of luck</li>
-</ul>
-<p>GitHub actions definitely hints at the upcoming low code future, where the hard work has been done by someone else and you just put the pieces together.</p>
+                <h1 id="when-using-other-peoples-work-consider-what-added-value-you-created">When using other people&rsquo;s work, consider what added value you created</h1>
+<p>Everybody stands on the shoulders of giants. Not one application would be written, without someone else writing the needed programming languages, operating systems and compilers. For every software to run, hardware and drivers are needed. When we think about crediting the giants on which shoulders we stand in software development, we often come around towards disclosing only what we are contractually obligated (if even that).</p>
+<p>I think this approach to be unproductive.<br />
+It hints at our own understanding of ownership in exploratory software development: We don&rsquo;t like, when someone doesn&rsquo;t give us credit for the work we have done. Therefore we don&rsquo;t like to credit people, who didn&rsquo;t participate. To reuse software like actively maintained open-source software or even just a snippet of code from GitHub or Stackoverflow we need to get a basic understanding of how this code works and how we need to integrate that code with our own. When we gained that understanding and subjugated the code, we may feel like this code belongs to us now. So we might try to give only minimal credit to its original creator, since we may perceive their participation (in our process of understanding) to be minimal.</p>
+<p>The original creator may never know we reused their code, but our decision to give only minimal credit could turn out to be unhealthy. Inside we <em>know</em> we weren&rsquo;t able to write this piece of software all by ourselves. Why are we trying to maintain that image to the outside world? Being true to ourselves: Someone created all the architecture in place to provide us with the opportunity to create our piece of software. Nobody should expect we did everything on our own. To reuse code is not more &ldquo;cheating&rdquo; than reusing the operating system or the hardware it runs on.</p>
+<p>When we reuse code without altering it, we should reuse it as a complete submodule (using source code) or linking to its place on the internet while building (using prebuild code) - and give credit.<br />
+When we reuse code and our goals and the creator&rsquo;s vision don&rsquo;t align, we should fork it and make its ancestry obvious - and give credit.<br />
+When we need to copy code, since we only need parts likge snippets or a specific version, at least we should give credit.</p>
+<p>By giving credit and making the origin of reused code obvious, we are able to demonstrate that code we added adds value, which is much more fulfilling, than trying to hide what is obvious: We - too - stand on the shoulders of giants.</p>
 
                 
 
@@ -226,15 +229,10 @@ if (!doNotTrack) {
                 <ul class="pager">
                     
                     <li class="previous">
-                        <a href="/post/everyones-frame-reference/" data-toggle="tooltip" data-placement="top" title="What if everyone&#39;s frame of reference is wrong?">&larr;
+                        <a href="/post/other-peoples-platform/" data-toggle="tooltip" data-placement="top" title="Other People&#39;s Platforms">&larr;
                             Previous Post</a>
                     </li>
                     
-                    
-                    <li class="next">
-                        <a href="/post/other-peoples-platform/" data-toggle="tooltip" data-placement="top" title="Other People&#39;s Platforms">Next
-                            Post &rarr;</a>
-                    </li>
                     
                 </ul>
 
