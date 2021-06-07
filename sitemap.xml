@@ -2,6 +2,9 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>http://unspector.com/tags/featured/</loc>
+    <lastmod>2021-06-07T13:43:13+02:00</lastmod>
+  </url><url>
     <loc>http://unspector.com/tags/organisation/</loc>
     <lastmod>2021-06-07T13:43:13+02:00</lastmod>
   </url><url>
@@ -70,9 +73,6 @@
   </url><url>
     <loc>http://unspector.com/post/clubhouse-information-density/</loc>
     <lastmod>2021-05-27T06:33:20+02:00</lastmod>
-  </url><url>
-    <loc>http://unspector.com/tags/featured/</loc>
-    <lastmod>2021-05-26T07:22:50+02:00</lastmod>
   </url><url>
     <loc>http://unspector.com/tags/nfts/</loc>
     <lastmod>2021-05-26T07:22:50+02:00</lastmod>
