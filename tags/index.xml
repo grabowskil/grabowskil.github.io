@@ -6,7 +6,25 @@
     <description>Recent content in Tags on Unspector Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 08 Jun 2021 13:43:13 +0200</lastBuildDate><atom:link href="http://unspector.com/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 09 Jun 2021 21:35:04 +0200</lastBuildDate><atom:link href="http://unspector.com/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>economics</title>
+      <link>http://unspector.com/tags/economics/</link>
+      <pubDate>Wed, 09 Jun 2021 21:35:04 +0200</pubDate>
+      
+      <guid>http://unspector.com/tags/economics/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>philosophy</title>
+      <link>http://unspector.com/tags/philosophy/</link>
+      <pubDate>Wed, 09 Jun 2021 21:35:04 +0200</pubDate>
+      
+      <guid>http://unspector.com/tags/philosophy/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>featured</title>
       <link>http://unspector.com/tags/featured/</link>
@@ -26,29 +44,11 @@
     </item>
     
     <item>
-      <title>philosophy</title>
-      <link>http://unspector.com/tags/philosophy/</link>
-      <pubDate>Tue, 08 Jun 2021 13:43:13 +0200</pubDate>
-      
-      <guid>http://unspector.com/tags/philosophy/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>programming</title>
       <link>http://unspector.com/tags/programming/</link>
       <pubDate>Tue, 08 Jun 2021 13:43:13 +0200</pubDate>
       
       <guid>http://unspector.com/tags/programming/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>economics</title>
-      <link>http://unspector.com/tags/economics/</link>
-      <pubDate>Mon, 07 Jun 2021 18:21:39 +0200</pubDate>
-      
-      <guid>http://unspector.com/tags/economics/</guid>
       <description></description>
     </item>
     
