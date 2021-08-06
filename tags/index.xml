@@ -6,7 +6,52 @@
     <description>Recent content in Tags on Unspector Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 24 Jul 2021 06:27:42 +0200</lastBuildDate><atom:link href="http://unspector.com/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 03 Aug 2021 07:11:42 +0200</lastBuildDate><atom:link href="http://unspector.com/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>ai</title>
+      <link>http://unspector.com/tags/ai/</link>
+      <pubDate>Tue, 03 Aug 2021 07:11:42 +0200</pubDate>
+      
+      <guid>http://unspector.com/tags/ai/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>algorithms</title>
+      <link>http://unspector.com/tags/algorithms/</link>
+      <pubDate>Tue, 03 Aug 2021 07:11:42 +0200</pubDate>
+      
+      <guid>http://unspector.com/tags/algorithms/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>philosphy</title>
+      <link>http://unspector.com/tags/philosphy/</link>
+      <pubDate>Tue, 03 Aug 2021 07:11:42 +0200</pubDate>
+      
+      <guid>http://unspector.com/tags/philosphy/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>programming</title>
+      <link>http://unspector.com/tags/programming/</link>
+      <pubDate>Tue, 03 Aug 2021 07:11:42 +0200</pubDate>
+      
+      <guid>http://unspector.com/tags/programming/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>philosophy</title>
+      <link>http://unspector.com/tags/philosophy/</link>
+      <pubDate>Mon, 02 Aug 2021 07:13:29 +0200</pubDate>
+      
+      <guid>http://unspector.com/tags/philosophy/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>disney</title>
       <link>http://unspector.com/tags/disney/</link>
@@ -62,15 +107,6 @@
     </item>
     
     <item>
-      <title>philosophy</title>
-      <link>http://unspector.com/tags/philosophy/</link>
-      <pubDate>Wed, 21 Jul 2021 22:16:33 +0200</pubDate>
-      
-      <guid>http://unspector.com/tags/philosophy/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>photography</title>
       <link>http://unspector.com/tags/photography/</link>
       <pubDate>Tue, 29 Jun 2021 10:02:12 +0200</pubDate>
@@ -98,15 +134,6 @@
     </item>
     
     <item>
-      <title>programming</title>
-      <link>http://unspector.com/tags/programming/</link>
-      <pubDate>Sun, 20 Jun 2021 14:32:31 +0200</pubDate>
-      
-      <guid>http://unspector.com/tags/programming/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>ux</title>
       <link>http://unspector.com/tags/ux/</link>
       <pubDate>Sun, 20 Jun 2021 14:32:31 +0200</pubDate>
@@ -130,15 +157,6 @@
       <pubDate>Mon, 14 Jun 2021 18:17:57 +0200</pubDate>
       
       <guid>http://unspector.com/tags/blog/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>philosphy</title>
-      <link>http://unspector.com/tags/philosphy/</link>
-      <pubDate>Mon, 14 Jun 2021 18:17:57 +0200</pubDate>
-      
-      <guid>http://unspector.com/tags/philosphy/</guid>
       <description></description>
     </item>
     

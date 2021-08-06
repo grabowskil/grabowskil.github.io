@@ -1,0 +1,499 @@
+<!DOCTYPE html>
+<html lang="en-us">
+<head>
+    
+    
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-FDEM7BC4PQ"></script>
+<script>
+var doNotTrack = false;
+if (!doNotTrack) {
+	window.dataLayer = window.dataLayer || [];
+	function gtag(){dataLayer.push(arguments);}
+	gtag('js', new Date());
+	gtag('config', 'G-FDEM7BC4PQ', { 'anonymize_ip': false });
+}
+</script>
+
+
+
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    
+    <meta property="og:site_name" content="Unspector Blog">
+    <meta property="og:type" content="article">
+
+    
+    <meta property="og:image" content="http://unspector.com//img/unspector_bg.png">
+    <meta property="twitter:image" content="http://unspector.com//img/unspector_bg.png" />
+    
+
+    
+    <meta name="title" content="More of the same, please" />
+    <meta property="og:title" content="More of the same, please" />
+    <meta property="twitter:title" content="More of the same, please" />
+    
+
+    
+    <meta name="description" content="">
+    <meta property="og:description" content="" />
+    <meta property="twitter:description" content="" />
+    
+
+    
+    <meta property="twitter:card" content="summary" />
+    
+    
+
+    <meta name="keyword"  content="Tech, Programming, Movies, Video Games, Tinkering, Finance, Philosphy">
+    <link rel="shortcut icon" href="/img/favicon.ico">
+
+    <title>More of the same, please-Unspector Blog</title>
+
+    <link rel="canonical" href="/post/algorithmic-life/">
+
+    <link rel="stylesheet" href="/css/iDisqus.min.css"/>
+	
+    
+    <link rel="stylesheet" href="/css/bootstrap.min.css">
+
+    
+    <link rel="stylesheet" href="/css/hux-blog.min.css">
+
+    
+    <link rel="stylesheet" href="/css/zanshang.css">
+    
+    
+    <link href="//cdnjs.cloudflare.com/ajax/libs/font-awesome/4.6.3/css/font-awesome.min.css" rel="stylesheet" type="text/css">
+  
+    
+    
+    <script src="/js/jquery.min.js"></script>
+    
+    
+    <script src="/js/bootstrap.min.js"></script>
+    
+    
+    <script src="/js/hux-blog.min.js"></script>
+  
+    
+    <link rel="stylesheet" href="/css/unspector-blog.css">
+    
+
+    
+    
+
+</head>
+
+
+
+<nav class="navbar navbar-default navbar-custom navbar-fixed-top">
+    <div class="container-fluid">
+        
+        <div class="navbar-header page-scroll">
+            <button type="button" class="navbar-toggle">
+                <span class="sr-only">Toggle navigation</span>
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+            </button>
+            <a class="navbar-brand" href="/">Unspector Blog</a>
+        </div>
+
+        
+        
+        <div id="huxblog_navbar">
+            <div class="navbar-collapse">
+                <ul class="nav navbar-nav navbar-right">
+                    <li>
+                        <a href="/">Home</a>
+                    </li>
+                    
+                        
+                    
+                    
+		    
+
+                    
+                </ul>
+            </div>
+        </div>
+        
+    </div>
+    
+</nav>
+<script>
+    
+    
+    
+    var $body   = document.body;
+    var $toggle = document.querySelector('.navbar-toggle');
+    var $navbar = document.querySelector('#huxblog_navbar');
+    var $collapse = document.querySelector('.navbar-collapse');
+
+    $toggle.addEventListener('click', handleMagic)
+    function handleMagic(e){
+        if ($navbar.className.indexOf('in') > 0) {
+        
+            $navbar.className = " ";
+            
+            setTimeout(function(){
+                
+                if($navbar.className.indexOf('in') < 0) {
+                    $collapse.style.height = "0px"
+                }
+            },400)
+        }else{
+        
+            $collapse.style.height = "auto"
+            $navbar.className += " in";
+        }
+    }
+</script>
+
+
+
+
+<style type="text/css">
+    header.intro-header {
+        background-image: url('/img/unspector_bg.png')
+    }
+</style>
+<header class="intro-header">
+    <div class="container">
+        <div class="row">
+            <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
+                <div class="post-heading">
+                    <div class="tags">
+                        
+                        <a class="tag" href="/tags/ai" title="ai">
+                            ai
+                        </a>
+                        
+                        <a class="tag" href="/tags/algorithms" title="algorithms">
+                            algorithms
+                        </a>
+                        
+                        <a class="tag" href="/tags/programming" title="programming">
+                            programming
+                        </a>
+                        
+                        <a class="tag" href="/tags/philosophy" title="philosophy">
+                            philosophy
+                        </a>
+                        
+                    </div>
+                    <h1>More of the same, please</h1>
+                    <h2 class="subheading"></h2>
+                    <span class="meta">
+                        Posted by 
+                        
+                                Unspector Blog
+                         
+                        on 
+                        Monday, August 2, 2021
+                        
+                        
+                        
+                    </span>
+                </div>
+            </div>
+        </div>
+    </div>
+</header>
+
+
+
+
+<article>
+    <div class="container">
+        <div class="row">
+
+            
+            <div class="
+                col-lg-11 col-lg-offset-1
+                col-md-10 col-md-offset-1
+                post-container">
+
+                
+                <h1 id="we-will-know-when-algorithms-become-ai-if-they-stop-recommending-more-of-the-same">We will know, when algorithms become AI: if they stop recommending more of the same</h1>
+<p>Customers who bought, what you bought, also bought this. It is the most basic building block of ecommerce and our information age society. When you buy a washing machine and another customer of this machine also bought laundry detergent, you may get this laundry detergent recommended.</p>
+<p>This is genius and can genuinely help your customers, though the applications are limited and only work for complementary goods. In a well sorted shop this is great: If you sell washing machines and laundry detergents, PCs and video games, books and reading lights, your customers will be delighted.</p>
+<p>But we can recognize a challenge, when we try to use the underlying algorithm for substitutes: People who listened, what you listened to, also listend to this. People who read the books you read, also read these books. People who watched, what you watched, also watched this.</p>
+<p>Using this logic for substitutes creates a negative feedback loop: you will get more of the same and adhering to the recommendations means everyone else gets more of the same, too. This algorithm can work, if the observed group is ignoring the recommendations and is actively looking for things to buy, listen to, read and watch, which are not recommended by the algorithm. The people choosing not to do what the algorithm recommends would become some collective thought or trend leader, guiding the algorithm to better results. Everyone using the algorithm passively would profit immensely from this collective.<br />
+But if everyone is using the algorithm passively the results get worse for everyone.</p>
+<p>Since humans cannot get enough of a good thing right up until they can, we may not recognize the creeping sameness until it is too late: as the algorithm influences the consumers, it influences the producers. If we only buy, listen to, read and watch the same things over and over again, then these same things will be all that is produced in the end.</p>
+<p>Big tech companies and aligned startups want to sell these reductive algorithms as AI. They are not. As long as algorithms don&rsquo;t recommend things not based on our aggregated buying, watching, reading and listening history, but based on wholistic metrics we cannot even imagine, they are just more of the same &ldquo;customers who bought, what you bought, also bought this&rdquo;. Which may seem smart, at times, but is nothing more than sleight of hand. This gets revealed when you buy a washing machine and get recommended &hellip; another washing machine. Artificial or not, this is not intelligence.</p>
+<p>We will recognize the moment algorithms become AI-like, if a streaming service recommends something, which we will like and cannot trace back to things we previously showed interest in.<br />
+Up until then: Sometimes choose what the algorithm didn&rsquo;t recommend. At least this will make the recommendations better for everyone else, while we wait for proper AI.</p>
+
+                
+
+                <hr>
+                <ul class="pager">
+                    
+                    <li class="previous">
+                        <a href="/post/netflix-disney-business-model/" data-toggle="tooltip" data-placement="top" title="Netflix Disney Business Model">&larr;
+                            Previous Post</a>
+                    </li>
+                    
+                    
+                    <li class="next">
+                        <a href="/post/gatekeeping-life/" data-toggle="tooltip" data-placement="top" title="More of what you order me to do, please">Next
+                            Post &rarr;</a>
+                    </li>
+                    
+                </ul>
+
+                
+<div id="disqus-comment"></div>
+
+
+
+            </div>
+            
+            <div class="
+                col-lg-11 col-lg-offset-1
+                col-md-10 col-md-offset-1
+                sidebar-container">
+
+                
+                
+                <section>
+                    <hr class="hidden-sm hidden-xs">
+                    <h5><a href="/tags/">FEATURED TAGS</a></h5>
+                    <div class="tags">
+                         
+                        
+                         
+                        
+                         
+                        
+                         
+                        
+                         
+                        
+                         
+                        
+                         
+                        
+                         
+                        
+                         
+                        
+                         
+                        
+                         
+                        
+                         
+                                <a href="/tags/economics" title="economics">
+                                    economics
+                                </a>
+                         
+                        
+                         
+                        
+                         
+                        
+                         
+                        
+                         
+                        
+                         
+                        
+                         
+                        
+                         
+                        
+                         
+                        
+                         
+                        
+                         
+                                <a href="/tags/organisation" title="organisation">
+                                    organisation
+                                </a>
+                         
+                        
+                         
+                                <a href="/tags/philosophy" title="philosophy">
+                                    philosophy
+                                </a>
+                         
+                        
+                         
+                        
+                         
+                        
+                         
+                        
+                         
+                                <a href="/tags/programming" title="programming">
+                                    programming
+                                </a>
+                         
+                        
+                         
+                        
+                         
+                        
+                         
+                        
+                         
+                        
+                         
+                        
+                         
+                        
+                         
+                        
+                         
+                        
+                         
+                        
+                    </div>
+                </section>
+                
+
+                
+                
+            </div>
+        </div>
+    </div>
+</article>
+
+
+
+
+<footer>
+    <div class="container">
+        <div class="row">
+            <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
+                <ul class="list-inline text-center">
+                   
+                   <li>
+                       <a href='' rel="alternate" type="application/rss+xml" title="Unspector Blog" >
+                           <span class="fa-stack fa-lg">
+                               <i class="fa fa-circle fa-stack-2x"></i>
+                               <i class="fa fa-rss fa-stack-1x fa-inverse"></i>
+                           </span>
+                       </a>
+                   </li>
+                   
+                    
+                    
+                    
+                    
+                    
+
+                    
+
+		    
+                    
+                    
+                    <li>
+                        <a target="_blank" href="https://github.com/grabowskil">
+                            <span class="fa-stack fa-lg">
+                                <i class="fa fa-circle fa-stack-2x"></i>
+                                <i class="fa fa-github fa-stack-1x fa-inverse"></i>
+                            </span>
+                        </a>
+                    </li>
+		    
+                    
+                    
+                    
+                    <li>
+                        <a target="_blank" href="https://www.linkedin.com/in/lennart-grabowski/">
+                            <span class="fa-stack fa-lg">
+                                <i class="fa fa-circle fa-stack-2x"></i>
+                                <i class="fa fa-linkedin fa-stack-1x fa-inverse"></i>
+                            </span>
+                        </a>
+                    </li>
+		    
+                    
+                    
+                    
+                    
+                    
+            
+            
+            
+                </ul>
+		<p class="copyright text-muted">
+                    Copyright &copy; Unspector Blog 2021
+                    <br>
+                    <a href="https://themes.gohugo.io/hugo-theme-cleanwhite">CleanWhite Hugo Theme</a> by <a href="https://zhaohuabing.com">Huabing</a> |
+                    <iframe
+                        style="margin-left: 2px; margin-bottom:-5px;"
+                        frameborder="0" scrolling="0" width="100px" height="20px"
+                        src="https://ghbtns.com/github-btn.html?user=zhaohuabing&repo=hugo-theme-cleanwhite&type=star&count=true" >
+                    </iframe>
+                </p>
+            </div>
+        </div>
+    </div>
+</footer>
+
+
+
+
+<script>
+    function async(u, c) {
+      var d = document, t = 'script',
+          o = d.createElement(t),
+          s = d.getElementsByTagName(t)[0];
+      o.src = u;
+      if (c) { o.addEventListener('load', function (e) { c(null, e); }, false); }
+      s.parentNode.insertBefore(o, s);
+    }
+</script>
+
+
+
+
+
+
+<script>
+    
+    if($('#tag_cloud').length !== 0){
+        async("/js/jquery.tagcloud.js",function(){
+            $.fn.tagcloud.defaults = {
+                
+                color: {start: '#bbbbee', end: '#0085a1'},
+            };
+            $('#tag_cloud a').tagcloud();
+        })
+    }
+</script>
+
+
+<script>
+    async("https://cdnjs.cloudflare.com/ajax/libs/fastclick/1.0.6/fastclick.js", function(){
+        var $nav = document.querySelector("nav");
+        if($nav) FastClick.attach($nav);
+    })
+</script>
+
+
+
+
+
+
+<script type="application/javascript">
+var doNotTrack = false;
+if (!doNotTrack) {
+	window.ga=window.ga||function(){(ga.q=ga.q||[]).push(arguments)};ga.l=+new Date;
+	ga('create', 'G-FDEM7BC4PQ', 'auto');
+	
+	ga('send', 'pageview');
+}
+</script>
+<script async src='https://www.google-analytics.com/analytics.js'></script>
+
+
+
+</body>
+</html>
