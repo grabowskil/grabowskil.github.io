@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>featured on Unspector Blog</title>
+    <link>http://unspector.com/categories/featured/</link>
+    <description>Recent content in featured on Unspector Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 08 Feb 2022 07:10:11 +0100</lastBuildDate><atom:link href="http://unspector.com/categories/featured/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>The discussion around NFTs is mass hysteria all around</title>
+      <link>http://unspector.com/post/nft-mass-hysteria/</link>
+      <pubDate>Tue, 08 Feb 2022 07:10:11 +0100</pubDate>
+      
+      <guid>http://unspector.com/post/nft-mass-hysteria/</guid>
+      <description>&lt;h1 id=&#34;when-a-technology-is-misunderstood-by-everyone-is-it-doomed-to-fail&#34;&gt;When a technology is misunderstood by everyone, is it doomed to fail?&lt;/h1&gt;</description>
+    </item>
+    
+  </channel>
+</rss>
