@@ -2,10 +2,31 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://unspector.com/tags/cryptocurrency/</loc>
-    <lastmod>2022-05-09T06:43:46+02:00</lastmod>
-  </url><url>
     <loc>http://unspector.com/tags/economics/</loc>
+    <lastmod>2022-05-09T18:06:28+02:00</lastmod>
+  </url><url>
+    <loc>http://unspector.com/tags/featured/</loc>
+    <lastmod>2022-05-09T18:06:28+02:00</lastmod>
+  </url><url>
+    <loc>http://unspector.com/post/pc-2/</loc>
+    <lastmod>2022-05-09T18:06:28+02:00</lastmod>
+  </url><url>
+    <loc>http://unspector.com/tags/interent/</loc>
+    <lastmod>2022-05-09T18:06:28+02:00</lastmod>
+  </url><url>
+    <loc>http://unspector.com/tags/pc/</loc>
+    <lastmod>2022-05-09T18:06:28+02:00</lastmod>
+  </url><url>
+    <loc>http://unspector.com/post/</loc>
+    <lastmod>2022-05-09T18:06:28+02:00</lastmod>
+  </url><url>
+    <loc>http://unspector.com/tags/</loc>
+    <lastmod>2022-05-09T18:06:28+02:00</lastmod>
+  </url><url>
+    <loc>http://unspector.com/</loc>
+    <lastmod>2022-05-09T18:06:28+02:00</lastmod>
+  </url><url>
+    <loc>http://unspector.com/tags/cryptocurrency/</loc>
     <lastmod>2022-05-09T06:43:46+02:00</lastmod>
   </url><url>
     <loc>http://unspector.com/post/emergent-reality/</loc>
@@ -15,15 +36,6 @@
     <lastmod>2022-05-09T06:43:46+02:00</lastmod>
   </url><url>
     <loc>http://unspector.com/tags/philosophy/</loc>
-    <lastmod>2022-05-09T06:43:46+02:00</lastmod>
-  </url><url>
-    <loc>http://unspector.com/post/</loc>
-    <lastmod>2022-05-09T06:43:46+02:00</lastmod>
-  </url><url>
-    <loc>http://unspector.com/tags/</loc>
-    <lastmod>2022-05-09T06:43:46+02:00</lastmod>
-  </url><url>
-    <loc>http://unspector.com/</loc>
     <lastmod>2022-05-09T06:43:46+02:00</lastmod>
   </url><url>
     <loc>http://unspector.com/categories/</loc>
@@ -46,9 +58,6 @@
   </url><url>
     <loc>http://unspector.com/categories/tokenization/</loc>
     <lastmod>2022-02-08T07:10:11+01:00</lastmod>
-  </url><url>
-    <loc>http://unspector.com/tags/featured/</loc>
-    <lastmod>2021-12-15T19:53:35+01:00</lastmod>
   </url><url>
     <loc>http://unspector.com/post/scalping-efficient-markets/</loc>
     <lastmod>2021-12-15T19:53:35+01:00</lastmod>
