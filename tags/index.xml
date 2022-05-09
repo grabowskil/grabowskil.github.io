@@ -6,7 +6,34 @@
     <description>Recent content in Tags on Unspector Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 09 May 2022 18:06:28 +0200</lastBuildDate><atom:link href="http://unspector.com/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 09 May 2022 18:19:40 +0200</lastBuildDate><atom:link href="http://unspector.com/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>programming</title>
+      <link>http://unspector.com/tags/programming/</link>
+      <pubDate>Mon, 09 May 2022 18:19:40 +0200</pubDate>
+      
+      <guid>http://unspector.com/tags/programming/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>technology</title>
+      <link>http://unspector.com/tags/technology/</link>
+      <pubDate>Mon, 09 May 2022 18:19:40 +0200</pubDate>
+      
+      <guid>http://unspector.com/tags/technology/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>vr</title>
+      <link>http://unspector.com/tags/vr/</link>
+      <pubDate>Mon, 09 May 2022 18:19:40 +0200</pubDate>
+      
+      <guid>http://unspector.com/tags/vr/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>economics</title>
       <link>http://unspector.com/tags/economics/</link>
@@ -22,15 +49,6 @@
       <pubDate>Mon, 09 May 2022 18:06:28 +0200</pubDate>
       
       <guid>http://unspector.com/tags/featured/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>interent</title>
-      <link>http://unspector.com/tags/interent/</link>
-      <pubDate>Mon, 09 May 2022 18:06:28 +0200</pubDate>
-      
-      <guid>http://unspector.com/tags/interent/</guid>
       <description></description>
     </item>
     
@@ -71,15 +89,6 @@
     </item>
     
     <item>
-      <title>technology</title>
-      <link>http://unspector.com/tags/technology/</link>
-      <pubDate>Wed, 15 Dec 2021 19:53:35 +0100</pubDate>
-      
-      <guid>http://unspector.com/tags/technology/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>video games</title>
       <link>http://unspector.com/tags/video-games/</link>
       <pubDate>Wed, 15 Dec 2021 19:53:35 +0100</pubDate>
@@ -107,15 +116,6 @@
     </item>
     
     <item>
-      <title>vr</title>
-      <link>http://unspector.com/tags/vr/</link>
-      <pubDate>Tue, 17 Aug 2021 16:06:06 +0200</pubDate>
-      
-      <guid>http://unspector.com/tags/vr/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>ai</title>
       <link>http://unspector.com/tags/ai/</link>
       <pubDate>Tue, 03 Aug 2021 07:11:42 +0200</pubDate>
@@ -139,15 +139,6 @@
       <pubDate>Tue, 03 Aug 2021 07:11:42 +0200</pubDate>
       
       <guid>http://unspector.com/tags/philosphy/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>programming</title>
-      <link>http://unspector.com/tags/programming/</link>
-      <pubDate>Tue, 03 Aug 2021 07:11:42 +0200</pubDate>
-      
-      <guid>http://unspector.com/tags/programming/</guid>
       <description></description>
     </item>
     
